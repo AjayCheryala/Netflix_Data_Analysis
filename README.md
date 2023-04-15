@@ -1,5 +1,5 @@
 # Netflix_Data_Analysis
-![image](https://user-images.githubusercontent.com/129381473/232182713-d8257479-38dd-417a-9033-5617fa8a273e.png)
+![image](https://user-images.githubusercontent.com/129381473/232182749-f7d07f95-5c1c-4084-b9dc-17848c8f860a.png)
 
 A notebook that carries out analysis on Netflix data. 
 

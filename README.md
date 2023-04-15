@@ -7,8 +7,10 @@ Netflix is an application that keeps growing exponentially whole around the worl
 In this project, I used Python Pandas & Python Matplotlib to analyze and answer business questions about Netflix data. 
 
 I have answered these 13 questions through my data analysis mainly using pandas and matplotlib library.
+
 Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
 Task. 2) Is there any Null Value present in any column ? Show with Heat-map.
+
 Q. 1) For 'House of Cards', what is the Show Id and Who is the Director of this show ?
 Q. 2) In which year the highest number of the TV Shows & Movies were released ? Show with Bar Graph.
 Q. 3) How many Movies & TV Shows are in the dataset ? Show with Bar Graph.

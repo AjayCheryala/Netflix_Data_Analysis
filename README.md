@@ -1,4 +1,6 @@
 # Netflix_Data_Analysis
+![image](https://user-images.githubusercontent.com/129381473/232182713-d8257479-38dd-417a-9033-5617fa8a273e.png)
+
 A notebook that carries out analysis on Netflix data. 
 
 This Netflix Dataset has information about the TV shows and Movies available on Netflix from the year 2008 to 2021.
